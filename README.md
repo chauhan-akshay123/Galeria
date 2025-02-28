@@ -13,7 +13,6 @@ Galeia is a **photo curation application** inspired by Google Photos, allowing u
 - **Backend:** Node.js, Express.js
 - **Database:** SQLite3 (via Sequelize ORM)
 - **Testing:** Jest, Supertest
-- **Authentication:** JWT (JSON Web Token)
 - **API Calls:** Axios
 - **Environment Variables:** dotenv
 
